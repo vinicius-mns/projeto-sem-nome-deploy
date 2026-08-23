@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{l as o,c as t}from"./index-CzcxMh5k.js";const c={},r={class:"dottend-bg"};function s(n,_){return o(),t("div",r)}const f=e(c,[["render",s]]);export{f as default};
