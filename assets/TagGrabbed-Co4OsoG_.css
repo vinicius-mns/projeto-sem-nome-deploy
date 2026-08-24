@@ -1,0 +1,1 @@
+.tag-drag-and-drop-container{position:fixed;top:var(--v5fb1b123);left:var(--v5fb1b122);height:24px;width:24px;font-size:24px;pointer-events:none;z-index:1;filter:drop-shadow(2px 0 white) drop-shadow(-2px 0 white) drop-shadow(0 2px white) drop-shadow(0 -2px white);animation:intro .2s forwards}@keyframes intro{0%{transform:scale(0)}to{transform:scale(1)}}
