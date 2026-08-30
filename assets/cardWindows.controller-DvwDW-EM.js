@@ -1,0 +1,1 @@
+import{p as t,i as r}from"./index-DHsjZu8o.js";const c=()=>{const s=r([]);return t({list:s,push:o=>{const e=crypto.randomUUID();s.value.push({...o,id:e})},close:o=>{const e=s.value.findIndex(l=>l.id===o);e!==-1&&s.value.splice(e,1)},closeAll:()=>{s.value=[]}})};let n=null;const p=()=>(n||(n=c()),n);export{p as u};

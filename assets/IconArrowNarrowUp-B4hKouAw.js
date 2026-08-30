@@ -1,1 +1,0 @@
-import{c as r}from"./createVueComponent-CQXKoDeJ.js";var a=r("outline","arrow-narrow-up","ArrowNarrowUp",[["path",{d:"M12 5l0 14",key:"svg-0"}],["path",{d:"M16 9l-4 -4",key:"svg-1"}],["path",{d:"M8 9l4 -4",key:"svg-2"}]]);export{a as I};
